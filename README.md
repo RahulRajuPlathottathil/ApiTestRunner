@@ -10,13 +10,14 @@ Eclipse or IntelliJ as code editor
 
 ## Usage
 
-```Feature files : src/test/java/features
-``` Test Runner File: src/test/java/options
+Feature files : src/test/java/features
+Test Runner File: src/test/java/options
 
-## Running Test
-Right Click over pom.xml -> Run As -> maven test    or Right click on TestRunner Class ->Run As->Juit 
+# Running Test
+Right Click over pom.xml -> Run As -> maven test   
+or Right click on TestRunner Class ->Run As->Juit 
 
-## Reports
+# Reports
 
 Reports available at 
 > targets (cucumber report -html)
